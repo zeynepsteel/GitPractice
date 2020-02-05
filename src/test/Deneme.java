@@ -6,6 +6,6 @@ public static final String name="zeynep";
 //world worlddddddddd
 private void sysout() {
 	// TODO Auto-generated method stub
-//helooooooooooooooooooooooooo
+//helooooooooooooooooooooooooommmmmmmmmmmmmmmmmmmm
 }
 }
